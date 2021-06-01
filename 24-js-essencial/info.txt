@@ -1,0 +1,2 @@
+-chamar um arquivo .js
+node 'nomeArquivo'
