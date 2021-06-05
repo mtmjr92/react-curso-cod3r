@@ -1,2 +1,5 @@
 -chamar um arquivo .js
 node 'nomeArquivo'
+
+- 24 Funções Arrow #01
+função arrow tem um 'this' associado ao contexto
