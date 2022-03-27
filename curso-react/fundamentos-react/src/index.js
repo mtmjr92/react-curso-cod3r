@@ -1,9 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import './index.css';
+import React from "react";
+import ReacDOM from "react-dom";
 
-ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-);
+const tag = <strong>Olá React!</strong>;
+
+ReacDOM.render(<div>{tag}</div>, document.getElementById("root"));
