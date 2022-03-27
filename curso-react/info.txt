@@ -11,6 +11,7 @@ npx create-react-app
 - exports anything , the name of the exported function or object does not necessarily have to be 
 the name of the import variable
 - one export default per module
+- can return anonymous function
 
 --- COMPONENTS
 
