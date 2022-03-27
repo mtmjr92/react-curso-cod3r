@@ -16,3 +16,7 @@ the name of the import variable
 
 - function
 - classes
+
+--- FRAGMENT
+
+- React.Fragment accept attributes
