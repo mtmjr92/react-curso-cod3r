@@ -1,0 +1,9 @@
+--- NODE
+
+v14.0
+
+--- CREATE REACT APP
+
+npx create-react-app
+
+
