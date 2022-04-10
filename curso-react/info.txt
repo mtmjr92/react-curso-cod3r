@@ -21,3 +21,7 @@ the name of the import variable
 --- FRAGMENT
 
 - React.Fragment accept attributes
+
+--- SPREAD
+
+- exemple use spread -> {...values}
